@@ -67,6 +67,8 @@ Awesome ChatGPT
 - [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
 - [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing SEO & Google Ads skills. Meta tags, schema markup, keyword bids, and CMS content pushes.
+
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
