@@ -68,6 +68,7 @@ Awesome ChatGPT
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
 - [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing SEO & Google Ads skills. Meta tags, schema markup, keyword bids, and CMS content pushes.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 
 ### DevOps
